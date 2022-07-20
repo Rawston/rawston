@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como Comerciante
-- 🐉 Atualmente eu estudo desenvolvimento Web usando o ecossitema Python, com framework Django, ADS.
+- 🐉 Atualmente estudo desenvolvimento Web usando o ecossitema Python, com framework Django, ADS.
 - 📫 Como chegar até mim: rawstonm@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Eu tenho interesse em quase tudo relacionado a linguagem de programação, desenvolvimento de sistemas.
